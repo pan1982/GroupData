@@ -1,0 +1,10 @@
+I:\Git\GroupData\GroupData\bin\Debug\GroupData.exe.config
+I:\Git\GroupData\GroupData\bin\Debug\GroupData.exe
+I:\Git\GroupData\GroupData\bin\Debug\GroupData.pdb
+I:\Git\GroupData\GroupData\obj\Debug\GroupData.csprojResolveAssemblyReference.cache
+I:\Git\GroupData\GroupData\obj\Debug\GroupData.Form1.resources
+I:\Git\GroupData\GroupData\obj\Debug\GroupData.Properties.Resources.resources
+I:\Git\GroupData\GroupData\obj\Debug\GroupData.csproj.GenerateResource.cache
+I:\Git\GroupData\GroupData\obj\Debug\GroupData.csproj.CoreCompileInputs.cache
+I:\Git\GroupData\GroupData\obj\Debug\GroupData.exe
+I:\Git\GroupData\GroupData\obj\Debug\GroupData.pdb
